@@ -1,0 +1,6 @@
+id,created_at,updated_at,username,email,password,name,phone,income,address,city,state,zip,date_of_birth
+1,49:04.2,49:04.2,eflowers,hansenrichard@example.com,1,Alexis Wagner,(311)882-4360,120000,5443 Potts Ramp,Suzannehaven,NY,85372,03/10/62
+2,49:04.4,49:04.4,richardsonelizabeth,erichorton@example.com,2,Crystal Golden,001-666-798-3865x531,150000,321 Todd Mills,Francisville,OH,78824,15/11/72
+3,49:04.7,49:04.7,ajordan,charlesrodriguez@example.com,3,Monica Pearson,277-942-6062x92085,100000,9215 Williams View Apt. 682,Jonesstad,MT,91287,27/10/95
+4,49:04.9,49:04.9,bbaker,derrick87@example.org,4,Kyle Perkins,(206)945-3474,200000,658 Horne Corners Suite 608,Brandystad,VI,51205,21/06/67
+5,49:05.2,49:05.2,tanyagarcia,mking@example.org,5,Crystal Briggs,3564367825,120000,9874 Lynn Canyon Apt. 117,New Austinhaven,FL,6861,07/07/80
