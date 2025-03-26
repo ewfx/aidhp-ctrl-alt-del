@@ -23,7 +23,20 @@ Our project addresses the inefficiency of generic financial advice by **leveragi
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![image](https://github.com/user-attachments/assets/309d3a7d-cb89-4d91-ba17-66d7bf03c37a)
+![image](https://github.com/user-attachments/assets/40e6ea49-ad82-421b-b9a6-410858736bd4)
+![image](https://github.com/user-attachments/assets/e3f7352c-ecc9-43b0-9c85-a9b05bedbaff)
+![image](https://github.com/user-attachments/assets/94754309-a7db-4de9-be82-2ddf0204bec8)
+![image](https://github.com/user-attachments/assets/75c92789-a1f7-4f8e-aa08-971e231bec09)
+![image](https://github.com/user-attachments/assets/02b3c2b5-1bbd-4541-be2a-51defefce0c2)
+![image](https://github.com/user-attachments/assets/32969577-ee6e-426d-9b20-e692481525e4)
+![image](https://github.com/user-attachments/assets/3ffac921-bcd8-462a-a492-0a71839795fa)
+![image](https://github.com/user-attachments/assets/b379ceb2-e17a-439d-8a59-b4c2219f4f24)
+![image](https://github.com/user-attachments/assets/62281302-6f83-4003-a269-8767372ba1a0)
+
+
+
+
 
 ## 💡 Inspiration
 Traditional financial recommendations often ignore individual circumstances, leading to:
