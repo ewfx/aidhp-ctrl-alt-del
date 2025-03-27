@@ -18,11 +18,15 @@ Our project addresses the inefficiency of generic financial advice by **leveragi
 
 ---
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) 
-https://github.com/ewfx/aidhp-ctrl-alt-del/blob/main/artifacts/demo/demo_video.mp4
+## 🎥 Demo 
+📹 [Video Demo](
+https://github.com/ewfx/aidhp-ctrl-alt-del/blob/main/artifacts/demo/demo_video.mp4) 
+
 🖼️ Screenshots:
+
+- Architecture diagram -> ![image](https://github.com/user-attachments/assets/f1455c51-31f2-473d-8ce6-83d704f23c93)
+
+- UI screenshots ->
 
 ![image](https://github.com/user-attachments/assets/309d3a7d-cb89-4d91-ba17-66d7bf03c37a)
 ![image](https://github.com/user-attachments/assets/40e6ea49-ad82-421b-b9a6-410858736bd4)
